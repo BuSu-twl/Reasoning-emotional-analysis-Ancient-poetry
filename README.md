@@ -106,3 +106,7 @@ http://localhost:8501
 
 **开始使用：** `python run_integrated_gui.py` 🚀
 
+## 📄 许可证
+
+[MIT](LICENSE)
+
